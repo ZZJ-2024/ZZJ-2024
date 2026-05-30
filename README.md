@@ -27,10 +27,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
 </p>
 
+## GitHub Stats
 
- <img height="170" src="https://stats.programcx.cn/api?username=ZZJ-2024&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c41e3a&icon_color=c41e3a&text_color=e8e8e8"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ZZJ-2024&hide_border=true&background=0D0D0D&ring=C41E3A&fire=C41E3A&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=E8E8E8"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img height="170" src="https://stats.programcx.cn/api?username=ZZJ-2024&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c41e3a&icon_color=c41e3a&text_color=e8e8e8"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img height="170" src="https://streak-stats.demolab.com?user=ZZJ-2024&hide_border=true&background=0D0D0D&ring=C41E3A&fire=C41E3A&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=E8E8E8"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZZJ-2024&bg_color=0d0d0d&color=c41e3a&line=c41e3a&point=e8e8e8&area=true&hide_border=true" width="96%"/>
