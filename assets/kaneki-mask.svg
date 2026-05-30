@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Tokyo Ghoul inspired mask">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="16" fill="url(#bg)"/>
+  <!-- stylized one-eyed mask silhouette (original, not official art) -->
+  <path fill="#e8e8e8" d="M60 18c-22 0-38 16-38 38 0 14 6 26 16 34l-4 22 26-14c4 1 8 2 12 2 22 0 38-16 38-38S82 18 60 18zm-18 38c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18z"/>
+  <circle cx="60" cy="56" r="10" fill="#0d0d0d"/>
+  <circle cx="60" cy="56" r="5" fill="#c41e3a"/>
+  <path fill="none" stroke="#c41e3a" stroke-width="2" stroke-linecap="round" d="M34 78c8 10 18 14 26 14s18-4 26-14"/>
+</svg>
