@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZZJ-2024&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c41e3a&icon_color=c41e3a&text_color=e8e8e8"/>
-  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=ZZJ-2024&hide_border=true&background=0d0d0d&ring=c41e3a&fire=c41e3a"/>
+
+ <img height="170" src="https://stats.programcx.cn/api?username=ZZJ-2024&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c41e3a&icon_color=c41e3a&text_color=e8e8e8"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ZZJ-2024&hide_border=true&background=0D0D0D&ring=C41E3A&fire=C41E3A&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=E8E8E8"/>
 </p>
 
 <p align="center">
